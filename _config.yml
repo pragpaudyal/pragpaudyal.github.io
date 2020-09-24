@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Pragya Paudyal "
-  avatar           : ""/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg"
   bio              : "Data Science enthusiast"
   location         : "London"
   email            :
