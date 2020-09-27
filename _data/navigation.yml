@@ -6,10 +6,10 @@ main:
   - title: "Books"
     url: /books/
 
-  -title: "Hobbies"
-   url: /hobbies/
+  - title: "Hobbies"
+    url: /hobbies/
 
-  -title: "Machine Learning"
+  - title: "Machine Learning"
    url: /machinelearning/
 
   # - title: "About"
