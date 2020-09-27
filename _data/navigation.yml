@@ -5,7 +5,10 @@ main:
  - title: "Hobbies"
    url: /hobbies/
  - title: "Machine Learning"
-   url: /machinelearning/
+   url: /machine-learning/
+ - title: "Books"
+   url: /books/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

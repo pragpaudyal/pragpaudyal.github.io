@@ -3,5 +3,5 @@
 title: "Hobbies"
 permalink: /hobbies/
 header:
-   image: "/images/background.jpg"
+   image: "/images/background1.jpg"
 ---
